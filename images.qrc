@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/iconfont-female.png</file>
+        <file>images/iconfont-male.png</file>
+        <file>images/iconfont-ok.png</file>
+    </qresource>
+</RCC>
